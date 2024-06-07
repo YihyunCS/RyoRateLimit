@@ -1,2 +1,0 @@
-# RyoRateLimit
-py rate limiter
